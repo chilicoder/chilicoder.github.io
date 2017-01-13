@@ -8,4 +8,4 @@ github_username:  chilicoder
 markdown: kramdown
 theme: minima
 disqus:
-  shortname: chilicoder.disqus.com
+  shortname: chilicoder
