@@ -7,5 +7,5 @@ github_username:  chilicoder
 # Build settings
 markdown: kramdown
 theme: minima
-  disqus:
-    shortname: chilicoder.disqus.com
+disqus:
+  shortname: chilicoder.disqus.com
