@@ -1,4 +1,10 @@
-name: Chilicoder
+
+title: Chilicoder`s blog
+author: Chilicoder
+twitter_username: chilicoder
+github_username:  chilicoder
+
+# Build settings
 markdown: kramdown
 theme: minima
   disqus:
