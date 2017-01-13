@@ -1,3 +1,5 @@
 name: Chilicoder
 markdown: kramdown
 theme: minima
+  disqus:
+    shortname: chilicoder.disqus.com
